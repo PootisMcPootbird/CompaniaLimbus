@@ -1,0 +1,600 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "O Pădure Întunecată",
+      "model": "늑대",
+      "teller": "Wolf",
+      "title": "???",
+      "content": "Nu vezi acuma? Nu poți să fugi de noi."
+    },
+    {
+      "id": 1,
+      "model": "프롤로그단테",
+      "teller": "Eu",
+      "title": "■■■",
+      "content": "<Îndrăzniți… să mă întrerupeți fix când gravam ■■■■■■… Cred că v-ați sărit din…>"
+    },
+    {
+      "id": 2,
+      "model": "사자",
+      "teller": "Lion",
+      "title": "???",
+      "content": "Ah~ Dacă stăm să fim tehnici, ce a plănuit maestrul nostru nu este unul din taboourile Orașului aparent."
+    },
+    {
+      "id": 3,
+      "model": "사자",
+      "teller": "Lion",
+      "title": "???",
+      "content": "Este acel tip de lucru care… nimeni nu a îndrăznit să considere, mă înțelegi?"
+    },
+    {
+      "id": 4,
+      "model": "사자",
+      "teller": "Lion",
+      "title": "???",
+      "content": "Huh, uite-te la asta…"
+    },
+    {
+      "id": 5,
+      "model": "표범",
+      "teller": "Panther",
+      "title": "???",
+      "content": "Ai reușit să pui un cap diferit atât de repede. Cumva oamenii ca tine sunt mereu pregătiți?"
+    },
+    {
+      "id": 6,
+      "model": "프롤로그단테",
+      "teller": "Eu",
+      "title": "■■■",
+      "content": "<Kngh… Doar așteptați până obțin ■■■■■■… Nu veți putea face față la al meu…>"
+    },
+    {
+      "id": 7,
+      "model": "사자",
+      "teller": "Lion",
+      "title": "???",
+      "content": "Haha, cred că căpățâna aia nouă nu vine cu vreo gură, huh?"
+    },
+    {
+      "id": 8,
+      "model": "늑대",
+      "teller": "Wolf",
+      "title": "???",
+      "content": "Dap, ticăit e tot ce aud. Crezi că țipă în interior?"
+    },
+    {
+      "id": 9,
+      "model": "프롤로그단테",
+      "teller": "Me",
+      "title": "■■■",
+      "content": "<Ghaagh…!>"
+    },
+    {
+      "id": 10,
+      "model": "늑대",
+      "teller": "Wolf",
+      "title": "???",
+      "content": "Hmm. Ticăie mai rapid, deci cred că încă pot simți durere."
+    },
+    {
+      "id": 11,
+      "content": "Firar… De… ce sunt…!"
+    },
+    {
+      "id": 12,
+      "content": "…De ce sunt atacat?"
+    },
+    {
+      "id": 13,
+      "content": "Nu-i de bine… Memoriile dispar deja… ■■■ a fost făcut prea repede…"
+    },
+    {
+      "id": 14,
+      "model": "늑대",
+      "teller": "Wolf",
+      "title": "???",
+      "content": "Ce, deja au tăcut. Hai să terminăm cu asta."
+    },
+    {
+      "id": 15,
+      "model": "사자",
+      "teller": "Lion",
+      "title": "???",
+      "content": "Wolf, ăsta e un loc pe care nimeni nu-l vizitează și undeva unde nimeni nu vede. Care-i graba?"
+    },
+    {
+      "id": 16,
+      "model": "늑대",
+      "teller": "Wolf",
+      "title": "???",
+      "content": "Trebuie să urmăm învățăturile ei. Nu putem să mai tragem de timp prea mult."
+    },
+    {
+      "id": 17,
+      "model": "사자",
+      "teller": "Lion",
+      "title": "???",
+      "content": "Da, dar… Haa, ăsta e momentul de o viață întreagă. Nu o să mai prindem vreo șansă să omorâm o persoană de acest calibru…"
+    },
+    {
+      "id": 18,
+      "model": "표범",
+      "teller": "Panther",
+      "title": "???",
+      "content": "Lion, ai o tendință să devii prea emoțional în timpul muncii. Sper să arăți niște discreție."
+    },
+    {
+      "id": 19,
+      "model": "사자",
+      "teller": "Lion",
+      "title": "???",
+      "content": "Pshaw…"
+    },
+    {
+      "id": 20,
+      "model": "표범",
+      "teller": "Panther",
+      "title": "???",
+      "content": "E păcat—vroiam să-ți văd fața. Consider că nu ne vei spune unde îți e steaua, corect?"
+    },
+    {
+      "id": 21,
+      "model": "프롤로그단테",
+      "teller": "Eu",
+      "title": "■■■",
+      "content": "<Pe naiba vă zic. Voi lua locația ■■■ cu mine in mo…>"
+    },
+    {
+      "id": 22,
+      "model": "프롤로그단테",
+      "teller": "Eu",
+      "title": "■■■",
+      "content": "<……>"
+    },
+    {
+      "id": 23,
+      "content": "Firar, unde trebuia ■■■ să fie iar? Memoriile mele îmi scapă prea repede…"
+    },
+    {
+      "id": 24,
+      "model": "표범",
+      "teller": "Panther",
+      "title": "???",
+      "content": "…Mda. Fără gură."
+    },
+    {
+      "id": 25,
+      "model": "표범",
+      "teller": "Panther",
+      "title": "???",
+      "content": "Ceea ce înseamnă că… nu vom învăța de la această persoană cum s-o obținem."
+    },
+    {
+      "id": 26,
+      "model": "늑대",
+      "teller": "Wolf",
+      "title": "???",
+      "content": "Pot să-i omor acum?"
+    },
+    {
+      "id": 27,
+      "model": "표범",
+      "teller": "Panther",
+      "title": "???",
+      "content": "Desigur… Huh?"
+    },
+    {
+      "id": 28,
+      "model": "사자",
+      "teller": "Lion",
+      "title": "???",
+      "content": "Hei, ce-i cu sunetul ăla? Nu-mi spune, Panther… ți-ai permis să fi urmărit?"
+    },
+    {
+      "id": 29,
+      "model": "표범",
+      "teller": "Panther",
+      "title": "???",
+      "content": "Nu, nu poate să fie cineva care să mă fi urmărit. Poate un animal sălbatic?"
+    },
+    {
+      "id": 30,
+      "model": "늑대",
+      "teller": "Wolf",
+      "title": "???",
+      "content": "Ăla nu e sunetul o bestie ar face. Este…"
+    },
+    {
+      "id": 31,
+      "model": "늑대",
+      "teller": "Wolf",
+      "title": "???",
+      "content": "Un autobuz…?"
+    },
+    {
+      "id": 32,
+      "model": "표범",
+      "teller": "Panther",
+      "title": "???",
+      "content": "Cum a reușit să ajungă până aici?"
+    },
+    {
+      "id": 33,
+      "model": "사자",
+      "teller": "Lion",
+      "title": "???",
+      "content": "O fi făcut vreun viraj greșit?"
+    },
+    {
+      "id": 34,
+      "model": "사자",
+      "teller": "Lion",
+      "title": "???",
+      "content": "Hoo, prețul pe care îl vor plăti pentru că au greșit drumul va fi mai mare decât s-ar aștepta…"
+    },
+    {
+      "id": 35,
+      "model": "사자",
+      "teller": "Lion",
+      "title": "???",
+      "content": "…!"
+    },
+    {
+      "id": 36,
+      "model": "늑대",
+      "teller": "Wolf",
+      "title": "???",
+      "content": "…L-a învins pe Lion la putere?"
+    },
+    {
+      "id": 37,
+      "model": "표범",
+      "teller": "Panther",
+      "title": "???",
+      "content": "…!"
+    },
+    {
+      "id": 38,
+      "model": "???",
+      "teller": "???",
+      "title": "???",
+      "content": "……"
+    },
+    {
+      "id": 39,
+      "teller": "???",
+      "title": "???",
+      "content": "Dacă ochii mei încă văd bine, atunci vei ajunge la marginea glorii."
+    },
+    {
+      "id": 40,
+      "model": "프롤로그단테",
+      "teller": "Eu",
+      "title": "■■■",
+      "content": "<Cine… ești tu? Acea plăcuță… scrie… Faust?>"
+    },
+    {
+      "id": 41,
+      "model": "프롤로그파우스트",
+      "teller": "Faust",
+      "title": "???",
+      "content": "Te-ai pierdut într-o pădure întunecată."
+    },
+    {
+      "id": 42,
+      "model": "프롤로그단테",
+      "teller": "Eu",
+      "title": "■■■",
+      "content": "<Scuze… ce?>"
+    },
+    {
+      "id": 43,
+      "model": "프롤로그파우스트",
+      "teller": "Faust",
+      "title": "???",
+      "content": "Totuși nu ai fost compleșit de frică. De ce e așa?"
+    },
+    {
+      "id": 44,
+      "model": "프롤로그단테",
+      "teller": "Eu",
+      "title": "■■■",
+      "content": "<Aia…>"
+    },
+    {
+      "id": 45,
+      "model": "프롤로그단테",
+      "teller": "Eu",
+      "title": "■■■",
+      "content": "<Aș putea… să-mi ridic capul să găsesc steaua.>"
+    },
+    {
+      "id": 46,
+      "model": "프롤로그파우스트",
+      "teller": "Faust",
+      "title": "???",
+      "content": "E corect."
+    },
+    {
+      "id": 47,
+      "model": "프롤로그파우스트",
+      "teller": "Faust",
+      "title": "???",
+      "content": "Acum, repetă cu inimă ce îți voi zice în voce tare în timp ce îți reamintești de acea imagine."
+    },
+    {
+      "id": 48,
+      "model": "프롤로그파우스트",
+      "teller": "Faust",
+      "title": "???",
+      "content": "Urmează-ți steaua."
+    },
+    {
+      "id": 49,
+      "model": "프롤로그단테",
+      "teller": "Eu",
+      "title": "■■■",
+      "content": "<Urmează-ți… steaua.>"
+    },
+    {
+      "id": 50,
+      "content": "În acel moment…"
+    },
+    {
+      "id": 51,
+      "content": "Am simțit dintr-odată o bubuitură în cap.."
+    },
+    {
+      "id": 52,
+      "content": "Urmată de usturimea a câtorva lanțuri care-mi penetrează pieptul."
+    },
+    {
+      "id": 53,
+      "model": "프롤로그단테",
+      "teller": "Eu",
+      "title": "■■■",
+      "content": "<Hyag… Ah— Aaagh!!!>"
+    },
+    {
+      "id": 54,
+      "model": "프롤로그파우스트",
+      "teller": "Faust",
+      "title": "???",
+      "content": "Relaxează-te. Deși se simte altfel, inima ta încă este funcțională."
+    },
+    {
+      "id": 55,
+      "model": "파우스트",
+      "title": "Păcătoasa #2",
+      "content": "Cu asta, pactul a fost închis."
+    },
+    {
+      "id": 56,
+      "model": "파우스트",
+      "title": "Păcătoasa #2",
+      "content": "Dante, de acum înainte, suntem legați de timpul tău."
+    },
+    {
+      "id": 57,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Eu",
+      "content": "<La ce te…?>"
+    },
+    {
+      "id": 58,
+      "model": "파우스트",
+      "title": "Păcătoasa #2",
+      "content": "Bătăile inimilor noastre depind acum de unde îți cad mâinile."
+    },
+    {
+      "id": 59,
+      "model": "파우스트",
+      "title": "Păcătoasa #2",
+      "content": "Sper că vei fi un lider bun pentru noi."
+    },
+    {
+      "id": 60,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Eu",
+      "content": "<“Noi”…?>"
+    },
+    {
+      "id": 61,
+      "model": "이스마엘",
+      "title": "Păcătoasa #8",
+      "content": "Cumva aia a fost tot?"
+    },
+    {
+      "id": 62,
+      "model": "이상",
+      "title": "Păcătosul #1",
+      "content": "Un singur măr a căzut."
+    },
+    {
+      "id": 63,
+      "model": "이스마엘",
+      "title": "Păcătoasa #8",
+      "content": "…Omul ăsta tot nu are niciun sens."
+    },
+    {
+      "id": 64,
+      "model": "로쟈",
+      "title": "Păcătoasa #9",
+      "content": "Doamneeee~ Mă omora așteptarea! În sfârșit niște acțiune?"
+    },
+    {
+      "id": 65,
+      "model": "그레고르",
+      "title": "Păcătosul #13",
+      "content": "Păi, cred că ne-ar merge o mică încălzire."
+    },
+    {
+      "id": 66,
+      "model": "오티스",
+      "title": "Păcătoasa #12",
+      "content": "Ce este cu mizeria aia care se zbate pe pământ? O să fie cea mai nouă adiție al echipei?"
+    },
+    {
+      "id": 67,
+      "model": "그레고르",
+      "title": "Păcătosul #13",
+      "content": "Uh… Ți-aș zice să ai grijă la ce zici… Am auzit că o să ne fie șef în curând…"
+    },
+    {
+      "id": 68,
+      "model": "파우스트",
+      "title": "Păcătoasa #2",
+      "content": "Atacul s-ar fi întâmplat într-un instant—sunt impresionată că ai reușit să-ți ascunzi capul.."
+    },
+    {
+      "id": 69,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Eu",
+      "content": "<Cine sunteți oameni buni? Și care-i treaba cu autobuzul ăsta?>"
+    },
+    {
+      "id": 70,
+      "model": "파우스트",
+      "title": "Păcătoasa #2",
+      "content": "Suntem purtători ai dreptății care am venit să te ajutăm, iar acesta este autobuzul magic care ne duce oriunde dorim să mergem."
+    },
+    {
+      "id": 71,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Eu",
+      "content": "<Dreptate? Autobuz? Nu știu…>"
+    },
+    {
+      "id": 72,
+      "model": "파우스트",
+      "title": "Păcătoasa #2",
+      "content": "Nu e asta ceea ce te așteptai să auzi? În orice caz, mai bine ne crezi că suntem salvatorii tăi."
+    },
+    {
+      "id": 73,
+      "model": "파우스트",
+      "title": "Păcătoasa #2",
+      "content": "Suntem într-o cursă contratimp și situație nu este în favoarea noastră, așadar permite-mi să-ți explic o singură dată."
+    },
+    {
+      "id": 74,
+      "content": "După niște timp…"
+    },
+    {
+      "id": 75,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Eu",
+      "content": "<Deci… Dacă nu mă înșel și fac cum mi-ai zis, străinii ăștia vor lupta pentru mine?>"
+    },
+    {
+      "id": 76,
+      "model": "파우스트",
+      "title": "Păcătoasa #2",
+      "content": "Corect. Atâta timp cât le dai ordinele corecte."
+    },
+    {
+      "id": 77,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Eu",
+      "content": "<Okay, deci o să-i omorâm pe acești vandali aroganți…>"
+    },
+    {
+      "id": 78,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Eu",
+      "content": "<Apoi mă voi întoarce unde eram…>"
+    },
+    {
+      "id": 79,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Eu",
+      "content": "<Unde eram, și…>"
+    },
+    {
+      "id": 80,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Eu",
+      "content": "<……>"
+    },
+    {
+      "id": 81,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Eu",
+      "content": "<Ce făceam? Unde eram când am făcut aia?>"
+    },
+    {
+      "id": 82,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Eu",
+      "content": "<Ceva extrem de important mi-a fost dat ca sarcină. Ceva ce nu ar trebui să uit…>"
+    },
+    {
+      "id": 83,
+      "model": "파우스트",
+      "title": "Păcătoasa #2",
+      "content": "Calmează-te. Este doar natural ce se întâmplă cu capul curent."
+    },
+    {
+      "id": 84,
+      "model": "파우스트",
+      "title": "Păcătoasa #2",
+      "content": "Ar trebui să te concentrezi pe problema de pe moment, Dante."
+    },
+    {
+      "id": 85,
+      "model": "오티스",
+      "title": "Păcătoasa #12",
+      "content": "Cea… Scuze, nu știu cum să te adresez."
+    },
+    {
+      "id": 86,
+      "model": "오티스",
+      "title": "Păcătoasa #12",
+      "content": "Ar fi suficient Comandantul Ceas…? În orice caz, îți așteptăm comenzile!"
+    },
+    {
+      "id": 87,
+      "model": "그레고르",
+      "title": "Păcătosul #13",
+      "content": "Eh, chiar ne trebuie comenzi? Se pare că lupta unu-la-unu este singura metodă."
+    },
+    {
+      "id": 88,
+      "model": "이스마엘",
+      "title": "Păcătoasa #8",
+      "content": "Huh?! H-Hey!"
+    },
+    {
+      "id": 89,
+      "model": "히스클리프",
+      "title": "Păcătosul #7",
+      "content": "Nu mai pălăvrăgiți atâta! Trebuie doar să-i zdrobim pe toți!"
+    },
+    {
+      "id": 90,
+      "model": "파우스트",
+      "title": "Păcătoasa #2",
+      "content": "…Te rog dă tot ce poți, Dante."
+    },
+    {
+      "id": 91,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Eu",
+      "content": "<…Nu există o a doua metodă, presupun.>"
+    }
+  ]
+}
